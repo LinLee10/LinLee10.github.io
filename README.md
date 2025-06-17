@@ -1,6 +1,20 @@
-# Collin Lee’s Portfolio
+# 👋 Collin Lee’s Portfolio
 
 I build high-impact data solutions across computer vision, time-series forecasting, NLP, and more. Below are a few highlights:
+
+<p align="center">
+  <img
+    src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnBlZ3diMTU3ZG42YXJ2NjduMDU3c3RqM3R4MDlzNWhnNTg0YnFqNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/i45P7BemKpvpu/giphy.gif"
+    alt="Pokemon"
+    width="200"
+  &nbsp;&nbsp;
+    src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXU2b3VhaHN2eW81Z2J4cnNtZng4NHhqcHRnY3VrY3VvMmFpcmw0byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/139eZBmH1HTyRa/giphy.gif"
+    alt="Pikachu dancing"
+    width="200"
+  />
+</p>
+
+---
 
 - **Image Classification Project**
 - [Image Classification Project](https://github.com/LinLee10/Image_Classification_project)
