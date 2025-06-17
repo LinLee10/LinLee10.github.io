@@ -1,7 +1,3 @@
----
-title: Collin Lee’s Portfolio
----
-
 # Collin Lee’s Portfolio
 
 I build high-impact data solutions across computer vision, time-series forecasting, NLP, and more. Below are a few highlights:
