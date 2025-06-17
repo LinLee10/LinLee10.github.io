@@ -30,7 +30,7 @@ I build high-impact data solutions across computer vision, time-series forecasti
 
 - **Stock News Sentiment Analysis**
 - [Stock news Sentiment Analysis](https://github.com/LinLee10/Stock_news)
-  Built an end-to-end FinBERT pipeline that scrapes financial headlines, quantifies sentiment, and backtests trading signals—generating **12.5% annualized returns** vs. **6.3%** buy-and-hold, with automated report generation.
+  Built an end-to-end FinBERT pipeline that scrapes financial headlines, quantifies sentiment, and backtests trading signals—generating **12.5% annualized returns** vs. **6.3%** buy-and-hold, with automated report generation. STILL IN PROGRESS
 
 - **Regression Exploration**
 - [Regression Exploration](https://github.com/LinLee10/Regression_Exploration/tree/main)
