@@ -36,7 +36,8 @@ I build high-impact data solutions across computer vision, time-series forecasti
 - [Regression Exploration](https://github.com/LinLee10/Regression_Exploration/tree/main)
   Conducted a full EDA and regression study using Linear, Ridge, and Lasso models on real-world data—engineering polynomial features to hit **R² = 0.78** and **RMSE = 2.4**, complete with interactive visualizations.
 
-- [**Community Air Sampler Data & 6PPD-Q Dashboard**](#)
-- Built an end to end ELT pipeline that ingests field forms, GPS traces, and lab CSVs into a normalized schema with automated validation, geospatial enrichment, and local weather joins.
+
+- **Community Air Sampler Data & 6PPD-Q Dashboard**
+- [**Community Air Sampler Data & 6PPD-Q Dashboard**](#) Built an end to end ELT pipeline that ingests field forms, GPS traces, and lab CSVs into a normalized schema with automated validation, geospatial enrichment, and local weather joins.
 - Trained models to identify particulate and 6PPD quinone hotspots, surfaced feature importance for siting and policy insight, and generated school level trends and exposure summaries.
 - Delivered a public map and metrics dashboard with scheduled refresh, reproducible notebooks, and QC logs that link each filter barcode to location, time, and sampling conditions.
