@@ -38,5 +38,4 @@ I build high-impact data solutions across computer vision, time-series forecasti
 
 
 - **Community Air Sampler Data & 6PPD-Q Dashboard**
-- [**Community Air Sampler Data & 6PPD-Q Dashboard**](#) ELT lands field forms, GPS traces, and lab CSVs into a validated warehouse with geospatial and weather joins. Hotspot models and an auto refreshed public dashboard deliver school level exposure summaries, with QC logs linking each barcoded filter to time and place.
-- https://drive.google.com/drive/folders/1OaJtdjYCFR23Ns3QCkTPv-6Q46DLShaC?usp=sharing 
+- [**Community Air Sampler Data & 6PPD-Q Dashboard**](#) ELT lands field forms, GPS traces, and lab CSVs into a validated warehouse with geospatial and weather joins. Hotspot models and an auto refreshed public dashboard deliver school level exposure summaries, with QC logs linking each barcoded filter to time and place.     https://drive.google.com/drive/folders/1OaJtdjYCFR23Ns3QCkTPv-6Q46DLShaC?usp=sharing 
