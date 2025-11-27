@@ -51,3 +51,5 @@ I build high-impact data solutions across computer vision, time-series forecasti
 [agentvuln]: https://github.com/LinLee10/AgentVuln&#45;Bench
 [csrgreen]: https://github.com/LinLee10/CSR&#45;Greenwashing&#45;Detection
 
+* MedHive 510k Knowledge Graph QA
+* [MedHive FDA 510k Medical Device Knowledge Graph QA](https://github.com/LinLee10/MedHive510k_KnowledgeGraph_QA) Built a Python and Neo4j pipeline that turns FDA 510k device PDFs into a structured knowledge graph with subject predicate object triples, Cypher question answering over devices, indications and manufacturers, and knowledge graph embeddings that propose SAMEAS links across submissions to improve coverage and consistency.
