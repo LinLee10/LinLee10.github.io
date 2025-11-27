@@ -38,4 +38,16 @@ I build high-impact data solutions across computer vision, time-series forecasti
 
 
 - **Community Air Sampler Data & 6PPD-Q Dashboard**
-- [**Community Air Sampler Data & 6PPD-Q Dashboard**](#) ELT lands field forms, GPS traces, and lab CSVs into a validated warehouse with geospatial and weather joins. Hotspot models and an auto refreshed public dashboard deliver school level exposure summaries, with QC logs linking each barcoded filter to time and place.     https://drive.google.com/drive/folders/1OaJtdjYCFR23Ns3QCkTPv-6Q46DLShaC?usp=sharing 
+- [**Community Air Sampler Data & 6PPD-Q Dashboard**](#) ELT lands field forms, GPS traces, and lab CSVs into a validated warehouse with geospatial and weather joins. Hotspot models and an auto refreshed public dashboard deliver school level exposure summaries, with QC logs linking each barcoded filter to time and place.     https://drive.google.com/drive/folders/1OaJtdjYCFR23Ns3QCkTPv-6Q46DLShaC?usp=sharing
+
+* Agent security vulnerability evaluation
+
+* [AgentVulnBench][agentvuln] AI agent security benchmark that evaluates GPT 4 class models on fixing Python code vulnerabilities from the CyberNative dataset, with a green agent that scores similarity, vulnerability removal, static analysis, execution, and cost.
+
+* CSR greenwashing detection
+
+* [Greenwashing in Corporate Sustainability Statements][csrgreen] UC Berkeley NLP research project that classifies corporate sustainability statements as Genuine, Mixed, or Greenwashing using TFIDF and a fine tuned BERT model, reaching test accuracy 0.99 versus 0.52 for the majority baseline.
+
+[agentvuln]: https://github.com/LinLee10/AgentVuln&#45;Bench
+[csrgreen]: https://github.com/LinLee10/CSR&#45;Greenwashing&#45;Detection
+
