@@ -6,7 +6,7 @@ I build high impact data solutions across agent evaluation, NLP, and data engine
   <img
     src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnBlZ3diMTU3ZG42YXJ2NjduMDU3c3RqM3R4MDlzNWhnNTg0YnFqNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/i45P7BemKpvpu/giphy.gif"
     alt="Pokemon"
-    width="400"
+    width="300"
   />
   <img
     
