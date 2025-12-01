@@ -48,7 +48,7 @@ I build high-impact data solutions across computer vision, time-series forecasti
 
 * [Greenwashing in Corporate Sustainability Statements][csrgreen] UC Berkeley NLP research project that classifies corporate sustainability statements as Genuine, Mixed, or Greenwashing using TFIDF and a fine tuned BERT model, reaching test accuracy 0.99 versus 0.52 for the majority baseline.
 
-[agentvuln]: https://github.com/LinLee10/AgentVuln&#45;Bench
+[agentvuln]: [https://github.com/LinLee10/AgentVuln&#45;Bench](https://github.com/LinLee10/AgentVulnBench)
 [csrgreen]: https://github.com/LinLee10/CSR&#45;Greenwashing&#45;Detection
 
 * MedHive 510k Knowledge Graph QA
