@@ -9,9 +9,6 @@ I build high impact data solutions across agent evaluation, NLP, and data engine
     width="200"
   />
   <img
-    src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXU2b3VhaHN2eW81Z2J4cnNtZng4NHhqcHRnY3VrY3VvMmFpcmw0byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/139eZBmH1HTyRa/giphy.gif"
-    alt="Pikachu dancing"
-    width="200"
   />
 </p>
 
