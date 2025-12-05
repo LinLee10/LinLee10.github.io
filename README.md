@@ -28,9 +28,9 @@ I build high impact data solutions across agent evaluation, NLP, and data engine
 * **CSR greenwashing detection**  
   [Greenwashing in Corporate Sustainability Statements][csrgreen] UC Berkeley NLP research project that classifies corporate sustainability statements as Genuine, Mixed, or Greenwashing, implementing TF IDF Logistic Regression, Ordinal Regression, and BERT fine tuning. Improves accuracy from a majority baseline to 0.99 on held out data, with confusion matrix analysis and feature importance views for interpretability.
 
-**Fung Fellowship, EarthTeam**
+* **Fung Fellowship, EarthTeam**
 
-Worked with EarthTeam and high school interns to analyze environmental questions near schools, translating messy community datasets into clear, community facing insights and recommendations.
+  Worked with EarthTeam and high school interns to analyze environmental questions near schools, translating messy community datasets into clear, community facing insights and recommendations.
 
 • Built a lightweight, reproducible workflow for cleaning, joining, and analyzing multi source environmental data in Python and SQL.  
 • Mentored student analysts through scoping, debugging, and interpretation, improving team consistency and confidence in results.  
