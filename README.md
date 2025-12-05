@@ -21,6 +21,7 @@ I build high impact data solutions across agent evaluation, NLP, and data engine
 
 * **MedHive 510k knowledge graph QA**  
   [MedHive FDA 510k Medical Device Knowledge Graph QA](https://github.com/LinLee10/MedHive510k_KnowledgeGraph_QA) Python and Neo4j pipeline that turns FDA 510k device PDFs into a structured knowledge graph with subject predicate object triples aligned to a custom device ontology, enabling Cypher question answering over devices, indications, and manufacturers plus embeddings that propose SAMEAS links across submissions.
+
   Links: [MedHive poster](https://docs.google.com/presentation/d/1dnmPos8YzpEr1x9waxknjIxrBJ_SUchz/edit?usp=sharing&ouid=104640654789902592392&rtpof=true&sd=true)
 
 
