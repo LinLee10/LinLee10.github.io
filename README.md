@@ -1,7 +1,16 @@
-# Collin Lee’s Portfolio 
+# Collin Lee’s Portfolio
 
-I build high impact data solutions across agent evaluation, NLP, and data engineering. Here are selected research experiences and projects. <p align="center"> <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnBlZ3diMTU3ZG42YXJ2NjduMDU3c3RqM3R4MDlzNWhnNTg0YnFqNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/i45P7BemKpvpu/giphy.gif" alt="Pokemon" width="300" />  </p> 
+I build high impact data solutions across agent evaluation, NLP, and data engineering. Here are selected research experiences and projects.
 
+<p align="center">
+  <img
+    src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnBlZ3diMTU3ZG42YXJ2NjduMDU3c3RqM3R4MDlzNWhnNTg0YnFqNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/i45P7BemKpvpu/giphy.gif"
+    alt="Pokemon"
+    width="300"
+  />
+</p>
+
+***
 
 ## Research experience
 
@@ -20,9 +29,9 @@ Links: [MedHive poster](https://docs.google.com/presentation/d/1dnmPos8YzpEr1x9w
   * [Greenwashing in Corporate Sustainability Statements][csrgreen] UC Berkeley NLP research project that classifies corporate sustainability statements as Genuine, Mixed, or Greenwashing, implementing TF IDF Logistic Regression, Ordinal Regression, and BERT fine tuning. Improves accuracy from a majority baseline to 0.99 on held out data, with confusion matrix analysis and feature importance views for interpretability.
 
 * **Fung Fellowship, EarthTeam**  
-  * Worked with EarthTeam and high school interns to analyze environmental questions near schools, translating messy community datasets into clear, community facing insights and recommendations.
-  * Built a lightweight, reproducible workflow for cleaning, joining, and analyzing multi source environmental data in Python and SQL.
-  * Mentored student analysts through scoping, debugging, and interpretation, improving team consistency and confidence in results.
+  * Worked with EarthTeam and high school interns to analyze environmental questions near schools, translating messy community datasets into clear, community facing insights and recommendations.  
+  * Built a lightweight, reproducible workflow for cleaning, joining, and analyzing multi source environmental data in Python and SQL.  
+  * Mentored student analysts through scoping, debugging, and interpretation, improving team consistency and confidence in results.  
   * Communicated findings in concise writeups and presentations for non technical audiences.
 
 Links: [Slides](https://drive.google.com/drive/folders/1OaJtdjYCFR23Ns3QCkTPv-6Q46DLShaC?usp=sharing)
@@ -51,3 +60,6 @@ Links: [Slides](https://drive.google.com/drive/folders/1OaJtdjYCFR23Ns3QCkTPv-6Q
 
 * **Regression exploration**  
   * [Regression Exploration](https://github.com/LinLee10/Regression_Exploration/tree/main) EDA and regression study using Linear, Ridge, and Lasso models on a real world dataset. Engineers polynomial features to reach R squared of 0.78 and RMSE of 2.4, with clear comparisons of bias variance tradeoffs and interactive visualizations.
+
+[agentvuln]: https://github.com/LinLee10/AgentVulnBench  
+[csrgreen]: https://github.com/LinLee10/CSR-Greenwashing-Detection
