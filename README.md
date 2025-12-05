@@ -17,29 +17,26 @@ I build high impact data solutions across agent evaluation, NLP, and data engine
 ## Research experience
 
 * **OSWorld v2 agent benchmark research**  
-  Researcher on OSWorld v2, a next generation benchmark suite for real world LLM computer use agents with BAIR. Design long horizon desktop workflows with full task configuration, VM checks, and automatic scoring so agents are evaluated on realistic sequences rather than single clicks, and study evaluation stability and exploit resistant task structures.
+  * Researcher on OSWorld v2, a next generation benchmark suite for real world LLM computer use agents with BAIR. Design long horizon desktop workflows with full task configuration, VM checks, and automatic scoring so agents are evaluated on realistic sequences rather than single clicks, and study evaluation stability and exploit resistant task structures.
 
 * **MedHive 510k knowledge graph QA**  
-  [MedHive FDA 510k Medical Device Knowledge Graph QA](https://github.com/LinLee10/MedHive510k_KnowledgeGraph_QA) Python and Neo4j pipeline that turns FDA 510k device PDFs into a structured knowledge graph with subject predicate object triples aligned to a custom device ontology, enabling Cypher question answering over devices, indications, and manufacturers plus embeddings that propose SAMEAS links across submissions.            Links: [MedHive poster](https://docs.google.com/presentation/d/1dnmPos8YzpEr1x9waxknjIxrBJ_SUchz/edit?usp=sharing&ouid=104640654789902592392&rtpof=true&sd=true)
-
+  * [MedHive FDA 510k Medical Device Knowledge Graph QA](https://github.com/LinLee10/MedHive510k_KnowledgeGraph_QA) Python and Neo4j pipeline that turns FDA 510k device PDFs into a structured knowledge graph with subject predicate object triples aligned to a custom device ontology, enabling Cypher question answering over devices, indications, and manufacturers plus embeddings that propose SAMEAS links across submissions.
+Links: [MedHive poster](https://docs.google.com/presentation/d/1dnmPos8YzpEr1x9waxknjIxrBJ_SUchz/edit?usp=sharing&ouid=104640654789902592392&rtpof=true&sd=true)
 
 * **Financial news sentiment analyzer**  
-  [Stock news Sentiment Analysis](https://github.com/LinLee10/Stock_news) transformer based pipeline that classifies Bloomberg style financial news into positive, neutral, or negative sentiment per ticker. Fine tunes DistilBERT on labeled financial text, benchmarks against bag of words baselines, and produces finance specific sentiment time series that support event study style analyses of earnings and policy news.
+  * [Stock news Sentiment Analysis](https://github.com/LinLee10/Stock_news) transformer based pipeline that classifies Bloomberg style financial news into positive, neutral, or negative sentiment per ticker. Fine tunes DistilBERT on labeled financial text, benchmarks against bag of words baselines, and produces finance specific sentiment time series that support event study style analyses of earnings and policy news.
 
 * **CSR greenwashing detection**  
-  [Greenwashing in Corporate Sustainability Statements][csrgreen] UC Berkeley NLP research project that classifies corporate sustainability statements as Genuine, Mixed, or Greenwashing, implementing TF IDF Logistic Regression, Ordinal Regression, and BERT fine tuning. Improves accuracy from a majority baseline to 0.99 on held out data, with confusion matrix analysis and feature importance views for interpretability.
+  * [Greenwashing in Corporate Sustainability Statements][csrgreen] UC Berkeley NLP research project that classifies corporate sustainability statements as Genuine, Mixed, or Greenwashing, implementing TF IDF Logistic Regression, Ordinal Regression, and BERT fine tuning. Improves accuracy from a majority baseline to 0.99 on held out data, with confusion matrix analysis and feature importance views for interpretability.
 
-* **Fung Fellowship, EarthTeam**
-
-  Worked with EarthTeam and high school interns to analyze environmental questions near schools, translating messy community datasets into clear, community facing insights and recommendations.
-
-• Built a lightweight, reproducible workflow for cleaning, joining, and analyzing multi source environmental data in Python and SQL.  
-• Mentored student analysts through scoping, debugging, and interpretation, improving team consistency and confidence in results.  
-• Communicated findings in concise writeups and presentations for non technical audiences.
-
+* **Fung Fellowship, EarthTeam**  
+  * Worked with EarthTeam and high school interns to analyze environmental questions near schools, translating messy community datasets into clear, community facing insights and recommendations.
+  * Built a lightweight, reproducible workflow for cleaning, joining, and analyzing multi source environmental data in Python and SQL.
+  * Mentored student analysts through scoping, debugging, and interpretation, improving team consistency and confidence in results.
+  * Communicated findings in concise writeups and presentations for non technical audiences.
 Links: [Slides](https://drive.google.com/drive/folders/1OaJtdjYCFR23Ns3QCkTPv-6Q46DLShaC?usp=sharing)
 
-***
+**
 
 ## Projects
 
